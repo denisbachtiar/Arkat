@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Arkat</string>
+    <string name="gallery">Gallery</string>
+    <string name="arcamera">AR Camera</string>
+    <string name="about">about</string>
+    <string name="fragment_gallery">Fragment Gallery</string>
+    <string name="fragment_arcamera">Fragment AR Camera</string>
+    <string name="fragment_about">Fragment About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
